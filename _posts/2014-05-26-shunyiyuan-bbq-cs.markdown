@@ -32,7 +32,7 @@ categories: event
 ![image](/assets/shuyiyuan/12-1.jpg)
 ![image](/assets/shuyiyuan/12.jpg)
 
-#台球羽毛球
+#台球乒乓球
 ![image](/assets/shuyiyuan/13.jpg)
 
 #所带辎重，全部消灭
