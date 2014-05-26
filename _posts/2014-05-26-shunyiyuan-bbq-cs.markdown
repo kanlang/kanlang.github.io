@@ -2,7 +2,7 @@
 layout: post
 title:  "舒艺园 BBQ"
 date:   2014-05-24 15:33:51
-categories: photo stream
+categories: event
 ---
 
 # BBQ 开始
